@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '32673'
     url: http://www.gutenberg.org/2009/agents/32673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27410#Travels-in-France-during-the-years-1814-15--13-Comprising-a-residence-at-Paris-during-the-sta_
 gutenberg_issued: '2008-12-04'
 gutenberg_type: Text
 identifiers:
