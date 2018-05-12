@@ -1,0 +1,39 @@
+_repo: Travels-in-France-during-the-years-1814-15--13-Comprising-a-residence-at-Paris-during-the-sta__27410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Tytler, Patrick Fraser
+    birthdate: 1791
+    deathdate: 1849
+    gutenberg_agent_id: '32674'
+    url: http://www.gutenberg.org/2009/agents/32674
+  - agent_name: Alison, Archibald, Sir
+    birthdate: 1792
+    deathdate: 1867
+    gutenberg_agent_id: '32673'
+    url: http://www.gutenberg.org/2009/agents/32673
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27410'
+  lccn: 03029219
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- Capitulation, 1814 -- Personal narratives'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Elba and the Hundred Days,
+  1814-1815'
+- !lcsh 'Alison, Archibald, Sir, 1792-1867'
+- !lcc 'DC'
+title: "Travels in France during the years 1814-15\r\nComprising a residence at Paris,\
+  \ during the stay of the allied armies, and at Aix, at the period of the landing\
+  \ of Bonaparte, in two volumes."
+url: http://www.gutenberg.org/ebooks/27410
